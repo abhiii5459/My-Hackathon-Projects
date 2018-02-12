@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smoke Scream</string>
+
+    <string name="hello_world">YOU SMOKE, I SCREAM</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contacts_">Contacts_Activity</string>
+</resources>
