@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">HIPC - Trial</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="Username">Username</string>
+    <string name="mobNum">Mobile Number</string>
+    <string name="Password">Password</string>
+    <string name="LoginBtn">Login</string>
+    <string name="SignupBtn">Sign Up</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="LogoutBtn">Log Out</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="radio_admin">Admin</string>
+    <string name="radio_user">User</string>
+    <string name="btn_display">Display</string>
+    <string name="action_example">Example action</string>
+    <string name="submit">Submit</string>
+    <string name="backbtn">Back</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="categories">
+    <item>Blood</item>
+    <item>Plasma</item>
+        <item>Bone Marrow</item>
+    </string-array>
+    <string-array name="spinner_bg">
+        <item>AP</item>
+        <item>BP</item>
+        <item>ABP</item>
+        <item>OP</item>
+        <item>AN</item>
+        <item>BN</item>
+        <item>ABN</item>
+        <item>ON</item>
+    </string-array>
+
+    <string-array name="spinner_sex">
+        <item>M</item>
+        <item>F</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="spinnerloc">
+        <item>Banashankari</item>
+        <item>Jayanagar</item>
+        <item>Malleshwaram</item>
+        <item>Yelahanka</item>
+    </string-array>
+</resources>

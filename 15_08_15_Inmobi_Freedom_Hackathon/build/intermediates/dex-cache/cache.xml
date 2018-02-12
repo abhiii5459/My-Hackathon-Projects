@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-99ee056f1743d37d420daa3b39c3dfc1917f1af0.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-1477218d71d7eb9731c20604650bea53564bad51.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-908dcd3b375791537bdc168f83da0ef898c8de3c.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-873ab5fcb80a5dbf96bad5f5ab2a4ecfd8be6fa4.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-52af6041437878dd52144a7d64134622898422d1.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-812dd60d2a5d6aff2c14c6b5daf3b08ea9049272.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-63e586d1d8a0c3f1a478e8473580a753d9bb7ad5.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-0ab77eb21c4f2b3da9430c818208295e1f35b326.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-4d052c7ee79c023096c01b50088e5b0f4d700d61.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-59da1da036b51381e3f2600e5d7bf4266042e98d.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-b515b9bfc5eda305d5c37e2283446e6aca0f80a3.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-e9e5cf287a13b574d1c154fc35accc66f09d879b.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-12cd9f25f6ebe5ce609ab9e8df9d3e5c7ce0afeb.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-5d563fd4f08717c98602f6b92a90a5b55285db66.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-f6112c19d3531dafc46ce2ce2383fae591b54746.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-5973f7ab66a9b5d2b25072e7f9c452c0839c500c.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-12fcbab7e585b2c59681520c6b477a7b1d8cc885.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-5af5a793f36fa856ea04124f096f9e1b887bdb83.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-de8dcde1f0d79b2d4becc3e18e93a46c61cedecc.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-7081d3ebc62eca2a20701a24caa6d5f50a8a43a1.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-79a225d5f22dce0871ff3568436cdae6fe661fc2.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-c90b6d01b9de19ae692f5c04bb288fc3ee7544ac.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-35ce923ac899759747660fd48b10e38ce4c831c1.jar" />
+    </item>
+    <item
+        jar="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/aramesh/AndroidStudioProjects/HIPC-Trial/app/build/intermediates/pre-dexed/debug/classes-d729d49cf038820a15ca64fd1e3d642b50625ed4.jar" />
+    </item>
+
+</items>

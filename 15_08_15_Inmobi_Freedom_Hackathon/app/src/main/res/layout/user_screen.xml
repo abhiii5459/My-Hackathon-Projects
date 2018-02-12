@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtwelcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter user details"
+        android:paddingTop="50dp"
+        android:textSize="15sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <!--android:layout_centerHorizontal="true"-->
+
+
+
+    <TextView
+        android:id="@+id/txtuser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtwelcome"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/txtmobnum"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="MobileNum"
+        android:layout_marginTop="39dp"
+        android:layout_below="@+id/txtwelcome"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingLeft="10sp"
+        android:layout_toLeftOf="@+id/txtwelcome"
+        android:layout_toStartOf="@+id/txtwelcome" />
+
+    <EditText
+        android:id="@+id/mobnum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:layout_alignRight="@+id/txtmobnum"
+        android:layout_alignEnd="@+id/txtmobnum"
+        android:layout_below="@+id/txtuser" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="@string/submit"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/txtwelcome"
+        android:layout_toEndOf="@+id/txtwelcome" />
+
+    <Button
+        android:id="@+id/backbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/spinner_bg"
+        android:layout_alignEnd="@+id/spinner_bg" />
+
+
+    <TextView
+        android:id="@+id/txtbg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="BloodGroup"
+        android:layout_alignTop="@+id/spinner_bg"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/spinner_bg"
+        android:layout_toStartOf="@+id/spinner_bg"
+        android:paddingLeft="10sp"
+        android:layout_alignBottom="@+id/spinner_bg" />
+
+    <Spinner
+        android:layout_width="30sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner_bg"
+        android:text="Enter Blood Group"
+        android:spinnerMode="dropdown"
+        android:layout_marginTop="41dp"
+        android:layout_below="@+id/mobnum"
+        android:layout_alignLeft="@+id/mobnum"
+        android:layout_alignStart="@+id/mobnum" />
+
+
+    <TextView
+        android:id="@+id/txtsex"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Sex"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/spinner_sex"
+        android:layout_toStartOf="@+id/spinner_sex"
+        android:paddingLeft="10sp"
+        android:layout_alignBottom="@+id/spinner_sex"
+        android:layout_alignTop="@+id/spinner_sex" />
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner_sex"
+        android:text="Enter Sex"
+        android:spinnerMode="dropdown"
+        android:layout_marginTop="31dp"
+        android:layout_below="@+id/spinner_bg"
+        android:layout_toRightOf="@+id/txtbg"
+        android:layout_toEndOf="@+id/txtbg" />
+
+    <TextView
+        android:id="@+id/txtdob"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Date Of Birth "
+        android:layout_below="@+id/spinner_sex"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingLeft="10sp"
+        android:layout_marginTop="15sp" />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="date"
+        android:ems="10"
+        android:id="@+id/editDob"
+        android:layout_below="@+id/txtsex"
+        android:layout_toRightOf="@+id/txtbg"
+        android:layout_toEndOf="@+id/txtbg" />
+         />
+
+
+
+    <TextView
+        android:id="@+id/txtlocation"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Location "
+        android:paddingLeft="10sp"
+        android:layout_alignTop="@+id/spinnerloc"
+        android:layout_alignRight="@+id/spinner_sex"
+        android:layout_alignEnd="@+id/spinner_sex"
+        android:layout_marginTop="20sp" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerloc"
+        android:layout_below="@+id/editDob"
+        android:layout_alignRight="@+id/txtlocation"
+        android:layout_alignEnd="@+id/txtlocation"
+        android:spinnerMode="dropdown"
+        android:layout_alignLeft="@+id/editDob"
+        android:layout_alignStart="@+id/editDob"
+        android:layout_marginTop="30sp" />
+
+
+</RelativeLayout>

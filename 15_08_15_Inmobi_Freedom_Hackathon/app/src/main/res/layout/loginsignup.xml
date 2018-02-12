@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dip" >
+
+    <TextView
+        android:id="@+id/txtmobnum"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="MobileNum"
+        android:layout_alignTop="@+id/mobnum"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingBottom="30dp" />
+
+
+
+    <EditText
+        android:id="@+id/mobnum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:layout_marginTop="76dp"
+        android:layout_below="@+id/radioGroup"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingTop="30dp" />
+
+    <!--<TextView-->
+        <!--android:id="@+id/txtmobnum"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/mobNum"-->
+        <!--android:layout_below="@+id/mobnum"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_marginTop="31dp" />-->
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/LoginBtn"
+        android:layout_alignTop="@+id/signup"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/SignupBtn"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="163dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+
+    <RadioButton
+        android:id="@+id/radioadmin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/radio_admin"
+        android:checked="true"
+        android:layout_alignTop="@+id/radiouser" ></RadioButton>
+
+    <RadioButton
+        android:id="@+id/radiouser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/radio_user"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/signup"
+        android:layout_alignStart="@+id/signup" />
+    </RadioGroup>
+
+</RelativeLayout>
